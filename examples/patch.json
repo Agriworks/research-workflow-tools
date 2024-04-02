@@ -1,0 +1,2836 @@
+{
+    "patches": [
+        {
+            "target": {
+                "hhid": "AT-GT-KR-KR-2005",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-SP-2010",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_wages_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-SP-2014",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt",
+                "h3_crop1_lossother": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-SP-2017",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-SP-2030",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_wages_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-VP-2180",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-VP-2181",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1othercereal": null,
+                "h3_crop1pulse": "Horsegram"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-VP-2182",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-VP-2190",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1othercereal": null,
+                "h3_crop1pulse": "Horsegram"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-VP-2192",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1_lossother": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-VP-2197",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt",
+                "h2_income_other_specify": "Dairy"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-VP-2203",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-VP-2215",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt",
+                "h2_income_other_specify": "Pickles Business"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-VP-2216",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1_lossother": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-BP-2010",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-BP-2010",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-DP-2165",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-GT-2005",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_wages_amt",
+                "h2_income_other_specify": "Lorry Driver"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-GT-2006",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2cereal": "Oodalu",
+                "h3_crop2otherpulse": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-GT-2015",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1othercereal": null,
+                "h3_crop1oilseed": "Sesamum"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-GT-2145",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_wages_amt",
+                "h1_income_other_specify": "Lorry Driver"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-GT-2147",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_wages_amt",
+                "h1_income_other_specify": "Lorry Driver"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-GT-2161",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-GT-2222",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt",
+                "h1_income_other_specify": "Bolero Driver"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-GT-2222",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt",
+                "h3_crop1soldunit_oth": "Groundnut oil",
+                "h2_income_other_specify": "Tractor"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-RP-2262",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-RP-2262",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-SP-2003",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt",
+                "h2_income_other_specify": "Tractor, Dairy"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-SP-2249",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt",
+                "h1_income_other_specify": "Bolero Driver"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-SP-2249",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt",
+                "h2_income_other_specify": "Bolero Driver"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-SP-2285",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_wages_amt",
+                "h1_income_other_specify": "Lorry Driver"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-SR-2288",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-CP-2077",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-CP-2083",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2othercereal": null,
+                "h3_crop2pulse": "Horsegram"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-CP-2090",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2othercereal": null,
+                "h3_crop2pulse": "Horsegram"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-CP-2095",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1oilseed": "Castor",
+                "h3_crop1otheroilseed": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-IP-2105",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-IP-2105",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-IP-2265",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2othercereal": null,
+                "h3_crop2pulse": "Horsegram"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-IP-2267",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-SD-2230",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-SD-2232",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_othagri_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-SD-2236",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_wages_amt",
+                "h1_income_other_specify": "Lorry Driver"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-SD-2239",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-SD-2244",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_govt_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-SD-2247",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2othercereal": null,
+                "h3_crop2pulse": "Horsegram"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-UD-2097",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt",
+                "h1_income_other_specify": "Tractor"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-UD-2098",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-UD-2106",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop3othercereal": null,
+                "h3_crop3pulse": "Horsegram"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-UD-2108",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-UD-2108",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-UD-2113",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-UD-2121",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1othercereal": null,
+                "h3_crop1pulse": "Horsegram"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-BP-BP-2499",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1otherpulse": "Senagalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-MB-MB-2297",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-MB-MB-2298",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt",
+                "h1_income_other_specify": "Laundry Work"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-MB-MB-2320",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt",
+                "h2_income_other_specify": "Laundry Work"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-MB-TP-2303",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-MP-BP-3347",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1fruit": "Sweet lime",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-MP-BP-3455",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1other": null,
+                "h3_crop1cotton": "Daniyalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-MP-BP-3484",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1other": null,
+                "h3_crop1cotton": "Daniyalu",
+                "h3_crop2other": null,
+                "h3_crop2cotton": "Daniyalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-MP-RP-2451",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-MP-RP-2463",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1other": null,
+                "h3_crop1vegetable": "Onion"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-MP-RP-2469",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_wages_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Bp-1493",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Bp-1496",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2otherfruit": null,
+                "h3_crop2vegetable": "Lemon"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Bp-1497",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Sp-1305",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop3other": null,
+                "h3_crop3cotton": "Daniyalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Sp-1308",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2othercereal": null,
+                "h3_crop2cereal": "Wheat"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Sv-1274",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop3other": null,
+                "h3_crop3cotton": "Daniyalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Sv-1276",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1other": null,
+                "h3_crop1vegetable": "Lemon"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Vc-1322",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cotton": "Daniyalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Vc-1365",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop4cotton": "Daniyalu",
+                "h3_crop4other": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Vc-1366",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop3other": null,
+                "h3_crop3cotton": "Daniyalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Vm-1433",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1other": null,
+                "h3_crop1cotton": "Daniyalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Vm-1486",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2otherpulse": "Senagalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Vm-1505",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cotton": "Daniyalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-VP-BV-3464",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1fruit": "Sweet lime",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-VP-BV-3467",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1fruit": "Sweet lime",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-VP-VP-3293",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop3othervegetable": null,
+                "h3_crop3vegetable": "Ladyfinger"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-VP-VP-3306",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-KA-KA-3001",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_govt_amt",
+                "h1_income_other_specify": "Ammavadi"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-KA-KA-3004",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_govt_amt",
+                "h1_income_other_specify": "Ammavadi"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-KA-KA-3005",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt",
+                "h1_income_other_specify": "Tailor"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-KA-KA-3008",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt",
+                "h1_income_other_specify": "Tractor"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-KA-KA-3008",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1soldunit_oth": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-KA-KA-3011",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1_lossother": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-KA-KA-3047",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt",
+                "h1_income_other_specify": "Auto"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-KA-KA-3139",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1_lossother": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-KA-KA-3140",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1_lossother": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-SP-RP-3028",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1_lossother": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-TP-SP-3284",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1otherpaddy": null,
+                "h3_crop1paddy": "JJL"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-TP-TP-3263",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Jowar"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Tv-Ta-Kp-1364",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Brinjal",
+                "h3_crop1othervegetable": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tp-kp-1101",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "Ka-Tv-Tp-Tp-1015",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_kgcrop1othervegetable": null,
+                "h3_kgcrop1vegetable": "Brinjal"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tp-tp-1249",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-an-1235",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Tv-Tv-Bc-1463",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1other": null,
+                "h3_crop1vegetable": "Brinjal"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Tv-Tv-Bc-1465",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Tv-Tv-Bc-1468",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Brinjal",
+                "h3_crop1othervegetable": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Tv-Tv-Bc-1469",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Tv-Tv-Bc-1471",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1other": null,
+                "h3_crop1pulse": "Bengalgram"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Tv-Tv-Bc-1473",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "Ka-Tv-Tv-Bp-1032",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-Bp-1089",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-Bp-1303",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-nt-1267",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_kgcrop1othercereal": null,
+                "h3_kgcrop1cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-tv-1045",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-tv-1048",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-tv-1072",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-tv-1134",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Brinjal",
+                "h3_crop1othervegetable": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-tv-1137",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-tv-1201",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1cereal": "Corn",
+                "h3_crop1otherpulse": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-tv-1210",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Tv-Tv-Tv-1399",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1pulse": "Horsegram",
+                "h3_crop1otherpulse": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Tv-Tv-Tv-1412",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1other": null,
+                "h3_crop1cotton": "Daniyalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Tv-Tv-Tv-1479",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Lemon",
+                "h3_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2361",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_othagri_amt",
+                "h1_income_other_specify": "Fishing"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2384",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3357",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3360",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3373",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2othercereal": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-PD-2440",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt",
+                "h1_income_other_specify": "Laundry Work"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-PD-3446",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-2423",
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "h1_income_other_specify_reclassification": "h1_income_business_amt"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-2423",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h2_income_other_specify_reclassification": "h2_income_business_amt",
+                "h2_income_other_specify": "Bolero Driver"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3409",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3413",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3414",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop3other": null,
+                "h3_crop3cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3415",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3416",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3417",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3418",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3419",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3420",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3421",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3422",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3423",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3425",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3427",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3428",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3429",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3432",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3433",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop3other": null,
+                "h3_crop3cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3434",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3436",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3438",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2other": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-2391",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2othervegetable": null,
+                "h3_crop2vegetable": "Beetroot"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-2397",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1otherpaddy": null,
+                "h3_crop1paddy": "BPT-5204"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-2398",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1otherpaddy": null,
+                "h3_crop1paddy": "BPT-5204"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-2400",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1otherpaddy": null,
+                "h3_crop1paddy": "BPT-5204"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-2403",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2otherpaddy": null,
+                "h3_crop2paddy": "BPT-5204"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-3384",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2othercereal": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-3388",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2othercereal": null,
+                "h3_crop2cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-3399",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Carrot",
+                "h3_crop1othervegetable": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-3400",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop1vegetable": "Carrot",
+                "h3_crop1othervegetable": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-3401",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop2othervegetable": null,
+                "h3_crop2vegetable": "Beetroot"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-3408",
+                "redcap_event_name": "visit_3_arm_1"
+            },
+            "deltas": {
+                "h3_crop4vegetable": "Beetroot",
+                "h3_crop3othervegetable": null,
+                "h3_crop3vegetable": "Carrot",
+                "h3_crop4othervegetable": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-KR-SP-2001",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Oodalu",
+                "h4_crop1otherpulse": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-GT-2002",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Oodalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-OP-OP-2217",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Oodalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-AP-2126",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cotton": "other",
+                "h4_crop4othercotton": "Chia seed"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-AP-2272",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cotton": "other",
+                "h4_crop4othercotton": "Chia seed"
+            }
+        },
+        {
+            "target": {
+                "hhid": "AT-GT-UD-CP-2095",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1otheroilseed": null,
+                "h4_crop4oilseed": "Castor"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-MP-BP-3346",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cotton": "other",
+                "h4_crop4othercotton": "Betel leaf"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-MP-BP-3455",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop2other": null,
+                "h4_crop2cotton": "Daniyalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-BP-MP-RP-2496",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop2other": null,
+                "h4_crop2cotton": "Daniyalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Vm-1439",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cotton": "Daniyalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Bp-Vm-Vm-1508",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1vegetable": "Lemon"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-SP-RP-3040",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1vegetable": "Bottlegourd"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-SP-SP-3197",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1vegetable": "Bottlegourd"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-TP-TP-3094",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Jowar"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-TP-TP-3097",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop2cereal": "Korra",
+                "h4_crop2other": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-TP-TP-3240",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Korra"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-TP-TP-3263",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Korra"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-TP-TP-3272",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Jowar"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KA-TP-TP-TP-3288",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Korra"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tp-kp-1102",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Lemon",
+                "h4_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "Ka-Tv-tp-ma-1050",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Lemon",
+                "h4_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tp-ma-1051",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Lemon",
+                "h4_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tp-mp-1100",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1othercotton": null,
+                "h4_crop1cotton": "Cotton"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tp-tp-1042",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1othercotton": null,
+                "h4_crop1cotton": "Cotton"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tp-tp-1237",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Lemon",
+                "h4_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tp-tp-1239",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Lemon",
+                "h4_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tp-tp-1242",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Lemon",
+                "h4_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tp-tp-1249",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Lemon",
+                "h4_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Tv-Tv-Bc-1471",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Lemon",
+                "h4_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Tv-Tv-Bc-1474",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Lemon",
+                "h4_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "Ka-Tv-Tv-Bp-1032",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Lemon",
+                "h4_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "Ka-Tv-Tv-Bp-1033",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-Bp-1175",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Lemon",
+                "h4_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-tv-1138",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Lemon",
+                "h4_crop1otherfruit": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-tv-tv-tv-1201",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "ka-Tv-Tv-Tv-1361",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1vegetable": "Bottlegourd"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2357",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2359",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2360",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2361",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2363",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2364",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2365",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2366",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2369",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2370",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2371",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2372",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2373",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2374",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2375",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2377",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2378",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2379",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2380",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2381",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2382",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2383",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-2386",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3353",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3354",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3355",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3356",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3357",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3358",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3359",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3360",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3362",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3364",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3366",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3367",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3368",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop2cereal": "Corn",
+                "h4_crop2othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3369",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3370",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3371",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3372",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3373",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3374",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3375",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3376",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3377",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3378",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3409",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3410",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-KD-3411",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-PD-3439",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-KD-PD-3440",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-2404",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-2406",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-2408",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-2414",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-2417",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-2418",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-2420",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-2421",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cereal": "Corn"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3412",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3415",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3416",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3417",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3418",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3419",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3420",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3421",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3422",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3423",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3425",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3426",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3427",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3429",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3430",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3431",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3432",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3435",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3436",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3437",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-ED-3438",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-2395",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1vegetable": "Carrot"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-2428",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Carrot",
+                "h4_crop1othervegetable": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-2431",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Carrot",
+                "h4_crop1othervegetable": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-2433",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Carrot",
+                "h4_crop1othervegetable": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-3393",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Bitter gourd"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-3394",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1other": null,
+                "h4_crop1cotton": "Daniyalu"
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-3398",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Carrot",
+                "h4_crop1othervegetable": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-3401",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1vegetable": "Carrot",
+                "h4_crop1othervegetable": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-3405",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-3406",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        },
+        {
+            "target": {
+                "hhid": "KU-KD-MD-MD-3407",
+                "redcap_event_name": "visit_4_arm_1"
+            },
+            "deltas": {
+                "h4_crop1cereal": "Corn",
+                "h4_crop1othercereal": null
+            }
+        }
+    ],
+    "version": 1,
+    "meta": {
+        "notes": "Other Entry Replacement for columns: ['h3_crop1otherpaddy', 'h3_crop4vegetable', 'h3_crop1othercereal', 'h3_crop3other', 'h3_kgcrop1otheroilseed', 'h3_crop1other', 'h3_crop1fruit', 'h3_crop2othercereal', 'hhid', 'h3_crop2othervegetable', 'h4_crop2cereal', 'h4_crop1otheroilseed', 'h3_kgcrop1othercereal', 'h4_crop1other', 'h4_crop1cereal', 'h3_crop1cotton', 'h3_crop3cotton', 'h2_income_other_specify_reclassification', 'h3_crop1vegetable', 'h3_crop2_lossother', 'h3_crop2otherfruit', 'h3_crop2otherpaddy', 'redcap_event_name', 'h3_crop3othercereal', 'h3_crop2paddy', 'h3_crop2other', 'h4_crop1othercotton', 'h3_crop1_lossother', 'h3_crop1oilseed', 'h3_crop1pulse', 'h3_crop1paddy', 'h4_crop4oilseed', 'h4_crop1othercereal', 'h4_crop1otherpulse', 'h3_kgcrop1cereal', 'h3_crop1cereal', 'h3_crop1othervegetable', 'h3_crop1otherfruit', 'h3_crop1soldunit_oth', 'h1_exp_other_specify', 'h3_crop2cereal', 'h4_crop2other', 'h4_crop1cotton', 'h4_crop2cotton', 'h3_kgcrop1othervegetable', 'h3_crop2pulse', 'h3_crop2vegetable', 'h3_crop4cotton', 'h4_crop1vegetable', 'h1_income_other_specify_reclassification', 'h3_crop2cotton', 'h1_income_other_specify', 'h3_crop1otheroilseed', 'h4_crop1othervegetable', 'h3_crop3othervegetable', 'h3_crop1_losswhy___1', 'h3_crop3vegetable', 'h3_crop2otherpulse', 'h3_crop1_losswhy___7', 'h3_kgcrop1vegetable', 'h4_crop1otherfruit', 'h4_crop4othercotton', 'h3_crop4other', 'h3_crop4othervegetable', 'h4_crop2othercereal', 'h2_income_other_specify', 'h3_crop3cereal', 'h3_crop3pulse', 'h3_crop1otherpulse']"
+    }
+}
