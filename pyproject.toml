@@ -25,5 +25,5 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-generate-others-suggestions = "pipeline.cmdline:process_human_entered_fields"
-process-others-suggestions = "pipeline.cmdline:process_human_suggesstions"
+generate-others-suggestions = "research_workflow_tools.cmdline:process_human_entered_fields"
+process-others-suggestions = "research_workflow_tools.cmdline:process_human_suggesstions"
