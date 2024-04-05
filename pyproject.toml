@@ -5,13 +5,17 @@ description = "Toolsuite for simplifying the research workflows when working wit
 authors = ["Radhakrishna Sanka <rkrishnasanka@gmail.com>"]
 license = "BSD-3"
 readme = "README.md"
+packages = [
+    { include = "research_workflow_tools" },
+    { include = "research_workflow_tools/**/*.py" },
+]
 
 [tool.poetry.dependencies]
 python = "^3.11"
 pandas = "^2.2.1"
 click = "^8.1.7"
-panda-patch = {git = "https://github.com/rkrishnasanka/panda-patches.git"}
 numpy = "^1.26.4"
+panda-patches = {git = "https://github.com/rkrishnasanka/panda-patches.git"}
 
 
 [tool.poetry.group.dev.dependencies]
@@ -28,3 +32,15 @@ build-backend = "poetry.core.masonry.api"
 [tool.poetry.scripts]
 generate-others-suggestions = "research_workflow_tools.cmdline:process_human_entered_fields"
 process-others-suggestions = "research_workflow_tools.cmdline:process_human_suggesstions"
+
+[tool.poetry.extras]
+docs = ["sphinx"]
+
+[tool.isort]
+profile = "black"
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+testpaths = [
+    "./tests/"
+]

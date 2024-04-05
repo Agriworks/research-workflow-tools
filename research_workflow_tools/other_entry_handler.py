@@ -1,15 +1,25 @@
 import json
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional, Union
 import numpy as np
 
 import pandas as pd
 
-from panda_patch.utils import generate_update_patch_file
+from panda_patches.utils import generate_update_patch_file
 from research_workflow_tools.utils import generate_timestamp
+from typing import Any
+from typing import Any, Optional
 
 
-def cast_value(value):
+def cast_value(value: Any) -> Union[str, int, float, bool]:
+    """Casts the value to the appropriate type
+
+    Args:
+        value (Any): The value to be cast
+
+    Returns:
+        Union[str, int, float, bool]: The casted value
+    """
     # Try to convert to boolean
     if str(value).lower() in ["true", "false"]:
         return str(value).lower() == "true"
@@ -27,6 +37,16 @@ def cast_value(value):
 def check_entry_against_value_dictionary(
     input_dictionary: Dict, column_name: str, column_value: str
 ) -> bool:
+    """Checks if the column value is in the dictionary
+
+    Args:
+        input_dictionary (Dict): The dictionary that has all the valid values for the different columns
+        column_name (str): The column name
+        column_value (str): The column value
+
+    Returns:
+        bool: True if the column value is in the dictionary, False otherwise
+    """
     # Check if the column name is in the dictionary
     if column_name not in input_dictionary:
         print(f"Column name {column_name} not in the dictionary, unable to check entry")
@@ -396,8 +416,20 @@ def process_other_entry_replacements(
 
 
 def extract_not_null_df(
-    human_entry_df, new_column_name_columns, new_column_value_columns
-):
+    human_entry_df: pd.DataFrame, 
+    new_column_name_columns: List[str], 
+    new_column_value_columns: List[str]
+) -> pd.DataFrame:
+    """Extracts the rows that don't have a null value in the replacement_value or delete_value columns
+
+    Args:
+        human_entry_df (pd.DataFrame): The human entry dataframe
+        new_column_name_columns (List[str]): A list of the new column name columns
+        new_column_value_columns (List[str]): A list of the new column value columns
+
+    Returns:
+        pd.DataFrame: The dataframe that has the rows that don't have a null value in the replacement_value or delete_value columns
+    """
     condition = pd.isna(human_entry_df["replacement_value"]) | pd.isna(
         human_entry_df["delete_value"]
     )
