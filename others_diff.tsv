@@ -1,0 +1,11 @@
+	field_D	field_A	redcap_event_name	hhid	other_entry
+0			visit_1_arm_1	1	CASE_DELETE_OLD_VALUE_1
+1			visit_1_arm_1	2	CASE_DELETE_OLD_VALUE_1
+2			visit_1_arm_1	3	CASE_DELETE_OLD_VALUE_1
+3		NEWLY_CREATED_VALUE_1	visit_1_arm_1	4	
+4		NEWLY_CREATED_VALUE_1	visit_1_arm_1	5	
+5		NEWLY_CREATED_VALUE_1	visit_1_arm_1	6	
+6			visit_1_arm_1	7	CASE_DELETE_OLD_VALUE_3
+7			visit_1_arm_1	8	CASE_DELETE_OLD_VALUE_3
+8			visit_1_arm_1	9	CASE_DELETE_OLD_VALUE_3
+9			visit_1_arm_1	10	CASE_DELETE_OLD_VALUE_3

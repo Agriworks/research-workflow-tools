@@ -1,0 +1,4 @@
+column_name	unique_value	replacement_value	suggested_value	delete_value	new_column_name	new_column_value	delete_column_value
+other_entry	CASE_DELETE_OLD_VALUE_1			False			
+other_entry	CASE_DELETE_OLD_VALUE_3			False			
+other_entry	CASE_DELETE_OLD_VALUE_2	CASE_DELETE_NEW_VALUE_1		True	field_A	NEWLY_CREATED_VALUE_1	field_D

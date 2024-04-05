@@ -1,0 +1,35 @@
+{
+    "patches": [
+        {
+            "target": {
+                "hhid": 1,
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "other_entry": null
+            }
+        },
+        {
+            "target": {
+                "hhid": 2,
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "other_entry": null
+            }
+        },
+        {
+            "target": {
+                "hhid": 3,
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "other_entry": null
+            }
+        }
+    ],
+    "version": 1,
+    "meta": {
+        "notes": "Other Entry Replacement for columns: ['other_entry', 'redcap_event_name', 'hhid']"
+    }
+}

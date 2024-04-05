@@ -1,0 +1,38 @@
+{
+    "patches": [
+        {
+            "target": {
+                "hhid": 1,
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "field_A": "CASE_DELETE_NEW_VALUE_1",
+                "other_entry": null
+            }
+        },
+        {
+            "target": {
+                "hhid": 2,
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "field_A": "CASE_DELETE_NEW_VALUE_1",
+                "other_entry": null
+            }
+        },
+        {
+            "target": {
+                "hhid": 3,
+                "redcap_event_name": "visit_1_arm_1"
+            },
+            "deltas": {
+                "field_A": "CASE_DELETE_NEW_VALUE_1",
+                "other_entry": null
+            }
+        }
+    ],
+    "version": 1,
+    "meta": {
+        "notes": "Other Entry Replacement for columns: ['redcap_event_name', 'field_A', 'other_entry', 'hhid']"
+    }
+}
