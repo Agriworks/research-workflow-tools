@@ -47,7 +47,7 @@ def process_human_entered_fields(data_in: Path, ignore_list: Path):
     nargs=1,
     required=False,
     type=click.Path(exists=True, path_type=Path),
-    default=Path("./lookup-table/JSON_fields.json"),
+    default=Path("./lookup_fields.json"),
 )
 def process_human_suggesstions(
     data_in: Path, replacement_list: Path, input_dictionary: Path
